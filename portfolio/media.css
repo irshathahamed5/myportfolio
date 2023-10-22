@@ -1,0 +1,97 @@
+@media all and (max-width:470px)
+{
+    .logos{
+        font-size: 10px;
+        font-style: bold;
+        margin-left:-25px;
+        color: whitesmoke;
+    }
+   .logo{
+    margin-left:-25px;
+
+   }
+    .hi{
+        font-size: 30px;
+        font-style: bold;
+    }
+    .logohead{
+        font-size: 10px;
+    }
+}
+@media all and (max-width:1000px)
+{
+    .name{
+        font-size: 50px;
+        font-style: bold;
+        color: rgb(227, 93, 15);
+    }
+}
+@media all and (max-width:416px)
+{
+    .logo{
+        display: none;
+    }
+.line{
+    background-color: black;
+}
+
+}
+@media all and (max-width:770px)
+{
+    .name{
+        font-size: 40px;
+        font-style: bold;
+        color: rgb(227, 93, 15);
+    }
+}
+@media all and (max-width:980px)
+{
+nav{
+    flex-direction: column;
+}
+.logo{
+    align-self: flex-start;
+    margin-top: 5px;
+}
+nav li{
+    display: block;
+}
+.nav_link{
+    text-align: center;
+    display: none;
+}
+ .menu{
+    display:block;
+    position: absolute;
+    top:30px;
+    right: 10px;
+    
+ }
+ .showul{
+    display: block;
+ }
+ .logos{
+    
+    margin-left: 20px;
+    margin-top:-50px;
+}
+}
+
+@media all and (max-width:290px)
+{
+    .logos{
+        font-size: 12px;
+    }
+    .menu{
+        display:block;
+        position: absolute;
+        top:13px;
+        right: 10px;
+        
+     }
+     .showul{
+        display: block;
+     }
+}
+
+

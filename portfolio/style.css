@@ -1,0 +1,173 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.logoimg{
+    margin-left: 20px;
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+    border: 3px solid black;
+}
+.menu{
+    margin-right: 20px;
+}
+.fimgs{
+    height: 200px;
+    width: 180px;
+}
+.cont{
+    margin-top: 30px;
+}
+.name{
+    font-size: 60px;
+    color: rgb(28,40,65);
+}
+.hi{
+    font-size: 50px;
+    font-style: bold;
+}
+#con{
+    padding: 50px;
+}
+.lin{
+    scroll-margin-inline: 30px;
+}
+.list{
+    list-style: none;
+}
+.home_social-icon{
+width:30px;
+height:30px;
+}
+.textbox{
+    padding: 15px;
+  
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+.fre{
+    color:blueviolet;
+    font-size:large;
+}
+.about{
+    font-size: 40px;
+    font-weight: bold;
+    color: rgb(28, 40,65);
+    
+}
+.cicons{
+    margin: 30px;
+}
+.containers {
+    width: 100%; /* Full width */
+    background-color: #ddd; /* Grey background */
+  }
+  #ils{
+    margin-top: 80px;
+  }
+  input{
+    background-color: white;
+    width: 70%;
+    margin-left: 12%;
+    font-size: 20px;
+    padding: 16px 16px;
+    border-radius: 10px;
+    border-color: black;
+    margin-bottom: 20px;
+  }
+  textarea{
+    background-color: white;
+    width: 70%;
+    margin-left: 12%;
+    font-size: 20px;
+    padding: 16px 16px;
+    border-radius: 10px;
+    border-color: black;
+    margin-bottom: 20px;
+  }
+
+  .irs{
+    color: whitesmoke;
+    margin-top: 30px;
+  }
+  .foot{
+    background-color:rgb(28, 40,65) ;
+    margin-top: 10px;
+    width: 100%;
+    height: 100px;
+  }
+  button{
+    background-color: rgb(28, 40,65) ;
+    color: whitesmoke;
+padding: 8px 22px;
+    border-radius: 5px;
+  }
+  
+  .skills {
+    text-align: right; /* Right-align text */
+    padding-top: 10px; /* Add top padding */
+    padding-bottom: 10px; /* Add bottom padding */
+    color: white; /* White text color */
+  }
+  .links{
+    font-size: 30px;
+    color: darkslateblue;
+  }
+  
+  .html {width: 90%; background-color: #04AA6D;} /* Green */
+  .css {width: 80%; background-color: #4ecf4a;}
+   /* Blue */
+   .bootsrarp {width: 60%; background-color: #66c57f;}
+   .java{width: 60%; background-color: #d33131;}
+   .c{width: 60%; background-color: #623030;}
+   .python {width: 70%; background-color: #ee2727;}
+  .js {width: 65%; background-color: #acdb9e;} /* Red */
+  .php {width: 60%; background-color: #60c585;} 
+
+
+  nav{
+    
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+   background-color:rgb(28, 40,65);
+}
+.logos{
+    margin-top: 10px;
+    margin-left: 0px;
+    color:whitesmoke ;
+}
+.abouts{
+    color: black;
+    font-size: 40px;
+    font-weight: bold;
+}
+nav li{
+    margin-top: 10px;
+    display: inline-block;
+    padding: 20px;
+    padding-right: 50px;
+}
+a{
+    text-decoration: none;
+    color:whitesmoke;
+   
+}
+.l{
+    color:  rgb(28, 40,65);
+}
+.ol{
+    color: rgb(28, 40,65);
+}
+.menu{
+display: none;
+}
+.line{
+    background-color:whitesmoke ;
+    height: 3px;
+    width: 25px;
+    margin-bottom: 3px;
+    margin-right: 10px;
+    
+}
